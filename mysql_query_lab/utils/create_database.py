@@ -1,6 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
-from utils.config import MYSQL_CONFIG
+from mysql_query_lab.utils.config import MYSQL_CONFIG
+
 
 def create_mysql_database(db_name):
     """
@@ -16,6 +17,7 @@ def create_mysql_database(db_name):
         mysql.connector.Error: If there is an error creating the database.
     """
     try:
+
         # Connect to MySQL server
         with mysql.connector.connect(
             host=MYSQL_CONFIG["host"],
@@ -37,6 +39,7 @@ def create_mysql_database(db_name):
             # Print success message
             print(f"Database {db_name} created successfully")
 
+
     except mysql.connector.Error as err:
         # Handle any MySQL errors
         if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
@@ -45,3 +48,4 @@ def create_mysql_database(db_name):
             print("Database does not exist")
         else:
             print("MySQL Error:", err)
+
