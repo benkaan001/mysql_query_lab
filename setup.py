@@ -23,6 +23,7 @@ setup(
         'matplotlib-inline',
         'mysqlclient',
         'ipython-genutils',
+        'Faker',
     ],
     entry_points={
         'console_scripts': [

@@ -13,3 +13,4 @@ nbimporter==0.3.4
 prettytable==3.7.0
 SQLAlchemy==2.0.11
 sqlparse==0.4.4
+Faker==18.7.0
