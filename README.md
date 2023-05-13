@@ -31,6 +31,16 @@ mysql_query_lab/
 ├── venv/
 ├── setup.py
 ├── mysql_query_lab/
+│   ├── assets/
+│   │   ├── key_concepts/
+│   │   │   ├── concept1.md
+│   │   │   └── concept2.md
+│   │   └── asset.png
+│   ├── data/
+│   │   ├── db1_dim_table/
+│   │   │   └── dim_table.csv
+│   │   └── db1_fact_table/
+│   │       └── fact_table.csv
 │   ├── databases/
 │   │   ├── db1/
 │   │   │   ├── create_tables.sql
