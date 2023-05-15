@@ -1,7 +1,7 @@
-DROP TABLE fact_sales;
-DROP TABLE dim_customer;
-DROP TABLE dim_product;
-DROP TABLE dim_date;
+DROP TABLE IF EXISTS fact_sales;
+DROP TABLE IF EXISTS dim_customer;
+DROP TABLE IF EXISTS dim_product;
+DROP TABLE IF EXISTS dim_date;
 
 CREATE TABLE IF NOT EXISTS dim_date (
     date_id INT PRIMARY KEY,
