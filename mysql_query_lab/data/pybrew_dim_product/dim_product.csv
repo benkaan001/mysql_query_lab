@@ -1,1001 +1,1001 @@
-product_category,product_id,product_name,product_subcategory,product_price
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1000,2.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1001,1.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1002,10.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1003,1.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1004,10.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1005,2.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1006,1.75
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1007,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1008,2.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1009,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1010,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1011,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1012,5.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1013,2.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1014,1.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1015,4.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1016,15.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1017,1.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1018,15.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1019,15.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1020,3.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1021,1.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1022,3.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1023,2.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1024,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1025,10.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1026,15.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1027,1.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1028,3.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1029,4.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1030,2.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1031,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1032,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1033,2.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1034,3.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1035,15.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1036,2.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1037,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1038,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1039,15.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1040,1.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1041,2.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1042,2.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1043,3.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1044,4.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1045,2.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1046,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1047,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1048,10.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1049,3.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1050,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1051,15.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1052,2.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1053,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1054,15.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1055,4.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1056,2.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1057,10.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1058,2.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1059,1.75
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1060,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1061,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1062,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1063,10.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1064,1.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1065,1.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1066,15.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1067,1.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1068,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1069,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1070,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1071,10.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1072,1.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1073,4.5
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1074,2.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1075,1.75
-Snacks,Packaged,M&M,SNA:PAC:M&M:1076,1.75
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1077,5.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1078,2.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1079,3.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1080,3.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1081,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1082,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1083,5.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1084,3.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1085,4.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1086,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1087,5.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1088,1.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1089,4.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1090,2.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1091,2.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1092,5.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1093,4.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1094,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1095,10.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1096,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1097,5.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1098,1.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1099,5.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1100,3.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1101,1.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1102,2.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1103,2.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1104,2.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1105,1.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1106,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1107,10.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1108,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1109,4.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1110,2.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1111,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1112,10.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1113,5.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1114,2.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1115,4.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1116,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1117,10.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1118,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1119,4.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1120,10.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1121,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1122,15.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1123,2.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1124,3.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1125,15.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1126,1.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1127,1.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1128,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1129,1.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1130,1.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1131,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1132,3.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1133,3.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1134,1.75
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1135,10.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1136,2.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1137,5.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1138,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1139,15.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1140,1.75
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1141,2.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1142,3.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1143,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1144,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1145,15.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1146,3.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1147,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1148,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1149,5.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1150,4.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1151,2.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1152,1.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1153,2.5
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1154,2.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1155,1.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1156,4.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1157,2.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1158,2.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1159,15.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1160,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1161,15.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1162,5.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1163,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1164,5.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1165,2.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1166,4.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1167,1.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1168,3.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1169,1.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1170,1.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1171,2.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1172,3.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1173,1.75
-Snacks,Baked,Muffin,SNA:BAK:MUF:1174,2.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1175,4.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1176,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1177,3.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1178,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1179,10.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1180,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1181,10.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1182,1.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1183,3.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1184,2.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1185,4.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1186,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1187,4.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1188,3.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1189,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1190,1.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1191,4.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1192,2.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1193,5.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1194,2.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1195,4.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1196,1.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1197,5.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1198,2.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1199,1.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1200,1.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1201,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1202,10.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1203,2.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1204,3.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1205,2.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1206,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1207,15.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1208,3.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1209,1.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1210,2.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1211,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1212,5.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1213,10.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1214,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1215,3.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1216,1.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1217,3.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1218,15.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1219,2.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1220,1.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1221,2.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1222,5.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1223,2.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1224,1.75
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1225,3.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1226,3.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1227,1.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1228,2.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1229,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1230,15.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1231,2.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1232,2.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1233,1.75
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1234,1.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1235,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1236,2.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1237,2.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1238,2.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1239,15.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1240,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1241,10.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1242,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1243,15.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1244,10.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1245,1.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1246,2.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1247,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1248,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1249,15.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1250,10.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1251,1.75
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1252,1.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1253,2.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1254,15.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1255,1.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1256,3.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1257,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1258,10.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1259,1.5
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1260,1.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1261,2.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1262,3.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1263,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1264,2.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1265,2.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1266,2.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1267,5.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1268,5.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1269,4.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1270,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1271,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1272,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1273,10.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1274,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1275,1.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1276,5.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1277,5.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1278,2.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1279,4.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1280,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1281,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1282,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1283,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1284,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1285,4.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1286,10.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1287,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1288,15.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1289,2.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1290,4.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1291,1.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1292,5.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1293,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1294,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1295,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1296,1.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1297,3.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1298,5.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1299,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1300,3.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1301,4.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1302,1.75
-Snacks,Baked,Bagel,SNA:BAK:BAG:1303,1.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1304,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1305,4.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1306,4.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1307,1.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1308,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1309,10.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1310,4.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1311,1.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1312,15.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1313,10.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1314,5.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1315,5.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1316,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1317,3.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1318,2.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1319,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1320,15.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1321,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1322,15.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1323,10.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1324,3.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1325,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1326,3.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1327,1.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1328,2.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1329,2.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1330,4.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1331,2.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1332,5.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1333,1.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1334,3.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1335,4.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1336,3.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1337,3.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1338,1.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1339,2.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1340,3.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1341,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1342,15.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1343,2.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1344,3.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1345,2.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1346,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1347,10.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1348,3.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1349,15.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1350,1.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1351,1.75
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1352,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1353,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1354,15.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1355,2.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1356,1.75
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1357,5.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1358,1.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1359,3.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1360,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1361,15.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1362,4.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1363,2.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1364,1.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1365,1.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1366,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1367,10.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1368,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1369,15.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1370,10.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1371,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1372,1.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1373,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1374,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1375,3.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1376,2.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1377,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1378,15.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1379,1.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1380,2.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1381,3.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1382,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1383,2.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1384,2.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1385,4.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1386,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1387,5.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1388,4.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1389,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1390,10.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1391,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1392,2.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1393,2.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1394,3.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1395,3.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1396,15.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1397,15.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1398,2.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1399,3.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1400,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1401,2.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1402,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1403,2.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1404,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1405,15.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1406,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1407,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1408,15.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1409,1.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1410,1.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1411,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1412,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1413,5.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1414,15.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1415,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1416,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1417,2.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1418,5.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1419,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1420,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1421,5.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1422,3.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1423,1.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1424,1.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1425,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1426,10.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1427,1.75
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1428,2.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1429,2.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1430,3.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1431,1.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1432,2.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1433,1.75
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1434,1.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1435,3.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1436,2.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1437,1.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1438,10.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1439,2.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1440,1.75
-Snacks,Baked,Croissant,SNA:BAK:CRO:1441,1.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1442,15.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1443,4.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1444,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1445,10.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1446,3.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1447,4.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1448,3.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1449,5.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1450,3.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1451,2.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1452,3.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1453,2.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1454,2.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1455,1.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1456,3.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1457,1.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1458,4.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1459,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1460,10.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1461,3.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1462,4.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1463,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1464,10.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1465,2.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1466,1.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1467,5.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1468,4.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1469,4.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1470,3.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1471,3.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1472,1.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1473,2.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1474,1.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1475,15.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1476,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1477,1.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1478,1.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1479,2.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1480,1.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1481,4.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1482,3.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1483,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1484,10.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1485,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1486,2.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1487,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1488,2.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1489,3.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1490,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1491,3.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1492,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1493,15.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1494,3.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1495,1.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1496,1.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1497,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1498,3.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1499,2.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1500,1.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1501,1.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1502,3.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1503,1.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1504,3.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1505,3.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1506,15.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1507,1.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1508,2.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1509,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1510,5.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1511,3.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1512,5.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1513,1.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1514,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1515,10.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1516,1.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1517,2.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1518,1.75
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1519,3.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1520,5.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1521,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1522,10.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1523,3.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1524,15.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1525,1.75
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1526,3.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1527,4.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1528,10.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1529,4.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1530,5.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1531,10.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1532,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1533,15.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1534,4.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1535,5.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1536,15.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1537,3.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1538,15.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1539,4.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1540,5.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1541,10.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1542,5.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1543,4.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1544,2.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1545,3.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1546,3.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1547,3.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1548,2.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1549,2.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1550,3.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1551,1.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1552,2.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1553,1.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1554,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1555,5.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1556,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1557,15.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1558,1.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1559,1.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1560,2.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1561,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1562,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1563,10.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1564,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1565,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1566,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1567,10.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1568,2.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1569,15.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1570,4.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1571,15.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1572,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1573,4.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1574,10.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1575,5.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1576,2.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1577,1.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1578,4.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1579,1.75
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1580,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1581,3.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1582,1.75
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1583,1.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1584,2.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1585,1.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1586,2.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1587,3.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1588,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1589,4.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1590,3.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1591,2.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1592,10.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1593,5.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1594,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1595,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1596,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1597,10.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1598,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1599,10.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1600,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1601,3.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1602,2.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1603,2.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1604,2.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1605,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1606,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1607,4.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1608,4.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1609,2.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1610,3.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1611,3.5
-Snacks,Packaged,M&M,SNA:PAC:M&M:1612,1.75
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1613,3.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1614,10.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1615,3.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1616,2.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1617,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1618,15.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1619,10.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1620,4.5
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1621,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1622,1.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1623,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1624,5.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1625,15.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1626,15.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1627,1.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1628,3.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1629,3.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1630,2.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1631,1.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1632,1.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1633,1.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1634,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1635,4.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1636,3.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1637,5.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1638,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1639,10.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1640,1.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1641,15.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1642,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1643,15.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1644,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1645,1.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1646,15.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1647,1.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1648,10.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1649,3.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1650,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1651,10.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1652,3.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1653,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1654,15.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1655,1.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1656,3.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1657,3.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1658,4.5
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1659,2.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1660,1.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1661,15.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1662,4.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1663,5.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1664,2.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1665,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1666,10.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1667,5.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1668,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1669,15.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1670,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1671,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1672,10.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1673,4.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1674,5.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1675,1.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1676,2.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1677,4.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1678,2.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1679,2.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1680,3.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1681,15.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1682,1.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1683,1.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1684,2.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1685,1.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1686,2.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1687,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1688,10.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1689,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1690,10.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1691,2.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1692,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1693,10.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1694,5.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1695,1.75
-Snacks,Baked,Bagel,SNA:BAK:BAG:1696,1.5
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1697,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1698,15.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1699,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1700,3.5
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1701,2.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1702,3.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1703,2.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1704,4.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1705,15.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1706,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1707,3.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1708,10.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1709,3.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1710,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1711,10.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1712,5.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1713,1.75
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1714,15.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1715,2.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1716,2.0
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1717,1.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1718,5.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1719,10.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1720,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1721,10.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1722,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1723,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1724,5.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1725,4.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1726,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1727,5.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1728,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1729,5.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1730,3.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1731,2.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1732,4.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1733,15.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1734,4.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1735,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1736,15.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1737,1.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1738,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1739,10.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1740,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1741,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1742,5.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1743,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1744,1.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1745,4.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1746,5.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1747,3.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1748,3.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1749,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1750,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1751,15.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1752,4.5
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1753,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1754,2.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1755,2.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1756,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1757,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1758,3.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1759,4.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1760,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1761,5.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1762,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1763,15.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1764,5.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1765,3.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1766,1.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1767,4.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1768,1.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1769,10.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1770,4.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1771,15.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1772,2.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1773,1.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1774,3.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1775,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1776,1.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1777,1.5
-Snacks,Baked,Muffin,SNA:BAK:MUF:1778,2.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1779,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1780,10.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1781,1.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1782,15.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1783,3.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1784,1.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1785,2.5
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1786,2.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1787,4.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1788,2.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1789,15.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1790,2.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1791,4.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1792,5.0
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1793,2.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1794,10.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1795,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1796,15.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1797,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1798,15.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1799,10.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1800,15.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1801,2.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1802,1.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1803,4.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1804,1.5
-Snacks,Baked,Cookie,SNA:BAK:COO:1805,2.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1806,1.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1807,1.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1808,10.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1809,3.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1810,15.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1811,3.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1812,3.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1813,3.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1814,2.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1815,4.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1816,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1817,2.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1818,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1819,10.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1820,4.5
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1821,4.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1822,15.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1823,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1824,10.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1825,2.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1826,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1827,5.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1828,10.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1829,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1830,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1831,10.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1832,2.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1833,3.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1834,3.5
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1835,1.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1836,10.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1837,10.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1838,1.75
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1839,3.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1840,3.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1841,1.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1842,3.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1843,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1844,10.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1845,4.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1846,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1847,15.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1848,2.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1849,3.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1850,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1851,4.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1852,5.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1853,2.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1854,3.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1855,10.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1856,2.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1857,2.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1858,3.5
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1859,2.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1860,15.0
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1861,3.5
-Cold Beverages,Iced Tea,Iced Black Tea,COL:ICE:ICE:1862,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1863,2.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1864,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1865,2.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1866,5.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1867,1.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1868,2.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1869,4.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1870,3.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1871,2.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1872,3.0
-Snacks,Packaged,M&M,SNA:PAC:M&M:1873,1.75
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1874,2.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1875,15.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1876,3.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1877,3.5
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1878,3.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1879,2.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1880,1.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1881,3.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1882,1.0
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1883,2.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1884,2.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1885,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1886,15.0
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1887,3.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1888,4.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1889,3.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1890,3.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1891,5.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1892,5.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1893,15.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1894,1.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1895,15.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1896,3.0
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1897,1.5
-Hot Beverages,Coffee,Espresso,HOT:COF:ESP:1898,2.0
-Snacks,Baked,Cookie,SNA:BAK:COO:1899,2.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1900,1.5
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1901,3.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1902,2.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1903,1.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1904,2.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1905,5.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1906,5.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1907,3.0
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1908,3.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1909,1.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1910,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1911,10.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1912,5.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1913,1.0
-Snacks,Baked,Croissant,SNA:BAK:CRO:1914,1.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1915,1.5
-Hot Beverages,Tea,Black Tea,HOT:TEA:BLA:1916,1.5
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1917,3.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1918,2.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1919,1.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1920,10.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1921,3.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1922,3.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1923,2.5
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1924,4.5
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1925,1.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1926,1.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1927,1.5
-Snacks,Baked,Croissant,SNA:BAK:CRO:1928,1.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1929,5.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1930,5.0
-Hot Beverages,Coffee,Americano,HOT:COF:AME:1931,2.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1932,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1933,3.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1934,2.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1935,1.5
-Hot Beverages,Coffee,Mocha,HOT:COF:MOC:1936,3.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1937,1.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1938,4.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1939,10.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1940,1.5
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1941,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1942,15.0
-Snacks,Packaged,Chewing Gum,SNA:PAC:CHE:1943,1.5
-Cold Beverages,Iced Coffee,Iced Americano,COL:ICE:ICE:1944,3.5
-Snacks,Baked,Bagel,SNA:BAK:BAG:1945,1.5
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1946,5.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1947,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1948,10.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1949,2.5
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1950,2.0
-Snacks,Baked,Bagel,SNA:BAK:BAG:1951,1.5
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1952,15.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1953,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1954,5.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1955,2.5
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1956,2.5
-Cold Beverages,Iced Tea,Iced Green Tea,COL:ICE:ICE:1957,3.0
-Cold Beverages,Iced Tea,Iced Chai Tea,COL:ICE:ICE:1958,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1959,10.0
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1960,4.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1961,4.0
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1962,5.0
-Hot Beverages,Coffee,Cappuccino,HOT:COF:CAP:1963,4.0
-Cold Beverages,Iced Tea,Iced Herbal Tea,COL:ICE:ICE:1964,2.5
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1965,1.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1966,4.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1967,4.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1968,2.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1969,4.5
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1970,4.5
-Cold Beverages,Iced Coffee,Iced Mocha,COL:ICE:ICE:1971,4.0
-Cold Beverages,Iced Coffee,Iced Latte,COL:ICE:ICE:1972,4.5
-Snacks,Packaged,Gronola Bar,SNA:PAC:GRO:1973,1.5
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1974,15.0
-Hot Beverages,Tea,Earl Grey Tea,HOT:TEA:EAR:1975,2.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1976,3.0
-Retail,Mug,PyBrew Texas Edition Mug 36oz,RET:MUG:PYB:1977,15.0
-Snacks,Packaged,Trail Mix,SNA:PAC:TRA:1978,2.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1979,15.0
-Cold Beverages,Iced Tea,Iced Earl Grey Tea,COL:ICE:ICE:1980,3.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1981,10.0
-Snacks,Packaged,Fruit Cup,SNA:PAC:FRU:1982,1.0
-Hot Beverages,Tea,Chai Tea,HOT:TEA:CHA:1983,2.5
-Cold Beverages,Iced Coffee,Iced Cappuccino,COL:ICE:ICE:1984,5.0
-Retail,Kitchen Tool,Perculator,RET:KIT:PER:1985,15.0
-Retail,Kitchen Tool,Dripper,RET:KIT:DRI:1986,5.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1987,10.0
-Snacks,Baked,Cinammon Roll,SNA:BAK:CIN:1988,2.5
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1989,2.0
-Cold Beverages,Iced Coffee,Cold Brew,COL:ICE:COL:1990,4.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1991,10.0
-Hot Beverages,Tea,Green Tea,HOT:TEA:GRE:1992,2.0
-Hot Beverages,Coffee,Latte,HOT:COF:LAT:1993,3.5
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1994,10.0
-Snacks,Baked,Muffin,SNA:BAK:MUF:1995,2.0
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1996,10.0
-Retail,Kitchen Tool,French Press,RET:KIT:FRE:1997,10.0
-Hot Beverages,Tea,Herbal Tea,HOT:TEA:HER:1998,1.5
-Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,RET:MUG:PYB:1999,10.0
+product_id,product_category,product_subcategory,product_name,product_price
+HOT:COF:CAP:1000,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:TEA:HER:1001,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:COF:MOC:1002,Hot Beverages,Coffee,Mocha,3.0
+HOT:TEA:HER:1003,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1004,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+COL:ICE:ICE:1005,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+HOT:TEA:GRE:1006,Hot Beverages,Tea,Green Tea,2.0
+RET:MUG:PYB:1007,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:CHE:1008,Snacks,Packaged,Chewing Gum,1.5
+RET:MUG:PYB:1009,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:MUF:1010,Snacks,Baked,Muffin,2.0
+SNA:BAK:MUF:1011,Snacks,Baked,Muffin,2.0
+HOT:COF:MOC:1012,Hot Beverages,Coffee,Mocha,3.0
+RET:KIT:FRE:1013,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:FRE:1014,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1015,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+SNA:BAK:BAG:1016,Snacks,Baked,Bagel,1.5
+SNA:PAC:FRU:1017,Snacks,Packaged,Fruit Cup,1.0
+RET:MUG:PYB:1018,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1019,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:PAC:GRO:1020,Snacks,Packaged,Gronola Bar,1.5
+HOT:COF:CAP:1021,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:ESP:1022,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1023,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+RET:MUG:PYB:1024,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:FRE:1025,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:M&M:1026,Snacks,Packaged,M&M,1.75
+HOT:COF:LAT:1027,Hot Beverages,Coffee,Latte,3.5
+RET:KIT:PER:1028,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1029,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1030,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+COL:ICE:ICE:1031,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+COL:ICE:ICE:1032,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:BAK:CRO:1033,Snacks,Baked,Croissant,1.0
+RET:KIT:DRI:1034,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:PER:1035,Retail,Kitchen Tool,Perculator,15.0
+HOT:TEA:CHA:1036,Hot Beverages,Tea,Chai Tea,2.5
+HOT:TEA:BLA:1037,Hot Beverages,Tea,Black Tea,1.5
+RET:MUG:PYB:1038,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:DRI:1039,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1040,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:HER:1041,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:PAC:CHE:1042,Snacks,Packaged,Chewing Gum,1.5
+RET:MUG:PYB:1043,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:PAC:FRU:1044,Snacks,Packaged,Fruit Cup,1.0
+SNA:PAC:CHE:1045,Snacks,Packaged,Chewing Gum,1.5
+COL:ICE:ICE:1046,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:PAC:M&M:1047,Snacks,Packaged,M&M,1.75
+COL:ICE:COL:1048,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1049,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:BAK:MUF:1050,Snacks,Baked,Muffin,2.0
+COL:ICE:COL:1051,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1052,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:ICE:1053,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+HOT:TEA:HER:1054,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:TEA:EAR:1055,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1056,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:PAC:FRU:1057,Snacks,Packaged,Fruit Cup,1.0
+RET:KIT:PER:1058,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1059,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+HOT:TEA:CHA:1060,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1061,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:KIT:FRE:1062,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1063,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:TEA:EAR:1064,Hot Beverages,Tea,Earl Grey Tea,2.0
+SNA:BAK:COO:1065,Snacks,Baked,Cookie,2.5
+COL:ICE:ICE:1066,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:MUG:PYB:1067,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:CHA:1068,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1069,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:BLA:1070,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:HER:1071,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:COL:1072,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1073,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1074,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+RET:MUG:PYB:1075,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1076,Cold Beverages,Iced Coffee,Iced Americano,3.5
+COL:ICE:ICE:1077,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:GRE:1078,Hot Beverages,Tea,Green Tea,2.0
+RET:MUG:PYB:1079,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:PER:1080,Retail,Kitchen Tool,Perculator,15.0
+SNA:BAK:MUF:1081,Snacks,Baked,Muffin,2.0
+HOT:TEA:BLA:1082,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:EAR:1083,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:MUG:PYB:1084,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:COF:CAP:1085,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:TEA:CHA:1086,Hot Beverages,Tea,Chai Tea,2.5
+RET:MUG:PYB:1087,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:HER:1088,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:PAC:M&M:1089,Snacks,Packaged,M&M,1.75
+RET:MUG:PYB:1090,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:HER:1091,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:BAK:BAG:1092,Snacks,Baked,Bagel,1.5
+SNA:BAK:CIN:1093,Snacks,Baked,Cinammon Roll,2.5
+SNA:BAK:MUF:1094,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1095,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:CHE:1096,Snacks,Packaged,Chewing Gum,1.5
+COL:ICE:ICE:1097,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+HOT:COF:CAP:1098,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:CAP:1099,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:MOC:1100,Hot Beverages,Coffee,Mocha,3.0
+SNA:PAC:TRA:1101,Snacks,Packaged,Trail Mix,2.0
+RET:KIT:PER:1102,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1103,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:COO:1104,Snacks,Baked,Cookie,2.5
+COL:ICE:COL:1105,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1106,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:ICE:1107,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:PAC:CHE:1108,Snacks,Packaged,Chewing Gum,1.5
+SNA:BAK:BAG:1109,Snacks,Baked,Bagel,1.5
+RET:KIT:PER:1110,Retail,Kitchen Tool,Perculator,15.0
+SNA:PAC:TRA:1111,Snacks,Packaged,Trail Mix,2.0
+SNA:PAC:TRA:1112,Snacks,Packaged,Trail Mix,2.0
+HOT:TEA:GRE:1113,Hot Beverages,Tea,Green Tea,2.0
+SNA:BAK:CRO:1114,Snacks,Baked,Croissant,1.0
+RET:MUG:PYB:1115,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:COF:AME:1116,Hot Beverages,Coffee,Americano,2.5
+SNA:BAK:CRO:1117,Snacks,Baked,Croissant,1.0
+SNA:BAK:COO:1118,Snacks,Baked,Cookie,2.5
+SNA:BAK:CIN:1119,Snacks,Baked,Cinammon Roll,2.5
+HOT:TEA:BLA:1120,Hot Beverages,Tea,Black Tea,1.5
+RET:MUG:PYB:1121,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:BLA:1122,Hot Beverages,Tea,Black Tea,1.5
+HOT:COF:CAP:1123,Hot Beverages,Coffee,Cappuccino,4.0
+SNA:BAK:CRO:1124,Snacks,Baked,Croissant,1.0
+HOT:TEA:BLA:1125,Hot Beverages,Tea,Black Tea,1.5
+RET:KIT:PER:1126,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:DRI:1127,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:BAG:1128,Snacks,Baked,Bagel,1.5
+SNA:PAC:FRU:1129,Snacks,Packaged,Fruit Cup,1.0
+SNA:BAK:BAG:1130,Snacks,Baked,Bagel,1.5
+HOT:TEA:GRE:1131,Hot Beverages,Tea,Green Tea,2.0
+RET:KIT:DRI:1132,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1133,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+HOT:COF:LAT:1134,Hot Beverages,Coffee,Latte,3.5
+HOT:TEA:EAR:1135,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:CAP:1136,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:ESP:1137,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1138,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:COL:1139,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:FRE:1140,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1141,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+HOT:COF:MOC:1142,Hot Beverages,Coffee,Mocha,3.0
+SNA:PAC:FRU:1143,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1144,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:DRI:1145,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:PER:1146,Retail,Kitchen Tool,Perculator,15.0
+HOT:TEA:GRE:1147,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:ICE:1148,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1149,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:BAK:CRO:1150,Snacks,Baked,Croissant,1.0
+HOT:TEA:EAR:1151,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1152,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:TEA:HER:1153,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:TEA:GRE:1154,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:ICE:1155,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:BAK:COO:1156,Snacks,Baked,Cookie,2.5
+SNA:BAK:MUF:1157,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1158,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:KIT:PER:1159,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:DRI:1160,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:CRO:1161,Snacks,Baked,Croissant,1.0
+HOT:COF:MOC:1162,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1163,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1164,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:MUF:1165,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1166,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:BLA:1167,Hot Beverages,Tea,Black Tea,1.5
+COL:ICE:ICE:1168,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:COL:1169,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:DRI:1170,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1171,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:ESP:1172,Hot Beverages,Coffee,Espresso,2.0
+SNA:BAK:MUF:1173,Snacks,Baked,Muffin,2.0
+SNA:PAC:CHE:1174,Snacks,Packaged,Chewing Gum,1.5
+SNA:PAC:GRO:1175,Snacks,Packaged,Gronola Bar,1.5
+COL:ICE:ICE:1176,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1177,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1178,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:PAC:FRU:1179,Snacks,Packaged,Fruit Cup,1.0
+RET:MUG:PYB:1180,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1181,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:PAC:GRO:1182,Snacks,Packaged,Gronola Bar,1.5
+RET:KIT:DRI:1183,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1184,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+RET:KIT:PER:1185,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:PER:1186,Retail,Kitchen Tool,Perculator,15.0
+SNA:BAK:MUF:1187,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1188,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+HOT:COF:LAT:1189,Hot Beverages,Coffee,Latte,3.5
+RET:MUG:PYB:1190,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1191,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1192,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CRO:1193,Snacks,Baked,Croissant,1.0
+HOT:COF:CAP:1194,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:TEA:EAR:1195,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:BLA:1196,Hot Beverages,Tea,Black Tea,1.5
+SNA:PAC:M&M:1197,Snacks,Packaged,M&M,1.75
+SNA:PAC:M&M:1198,Snacks,Packaged,M&M,1.75
+COL:ICE:ICE:1199,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:EAR:1200,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:KIT:FRE:1201,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:FRE:1202,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:CHE:1203,Snacks,Packaged,Chewing Gum,1.5
+COL:ICE:COL:1204,Cold Beverages,Iced Coffee,Cold Brew,4.5
+HOT:COF:CAP:1205,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1206,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:COF:MOC:1207,Hot Beverages,Coffee,Mocha,3.0
+RET:MUG:PYB:1208,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:KIT:DRI:1209,Retail,Kitchen Tool,Dripper,5.0
+HOT:COF:CAP:1210,Hot Beverages,Coffee,Cappuccino,4.0
+RET:KIT:DRI:1211,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:FRE:1212,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:FRE:1213,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:CRO:1214,Snacks,Baked,Croissant,1.0
+RET:KIT:DRI:1215,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1216,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:PAC:M&M:1217,Snacks,Packaged,M&M,1.75
+HOT:TEA:EAR:1218,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1219,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+HOT:COF:ESP:1220,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1221,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1222,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:LAT:1223,Hot Beverages,Coffee,Latte,3.5
+HOT:TEA:HER:1224,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1225,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:TEA:CHA:1226,Hot Beverages,Tea,Chai Tea,2.5
+RET:KIT:PER:1227,Retail,Kitchen Tool,Perculator,15.0
+SNA:PAC:GRO:1228,Snacks,Packaged,Gronola Bar,1.5
+SNA:BAK:CRO:1229,Snacks,Baked,Croissant,1.0
+HOT:TEA:EAR:1230,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:AME:1231,Hot Beverages,Coffee,Americano,2.5
+HOT:TEA:BLA:1232,Hot Beverages,Tea,Black Tea,1.5
+SNA:PAC:M&M:1233,Snacks,Packaged,M&M,1.75
+COL:ICE:ICE:1234,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1235,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:KIT:DRI:1236,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:FRE:1237,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:GRO:1238,Snacks,Packaged,Gronola Bar,1.5
+SNA:PAC:GRO:1239,Snacks,Packaged,Gronola Bar,1.5
+COL:ICE:ICE:1240,Cold Beverages,Iced Coffee,Iced Americano,3.5
+COL:ICE:ICE:1241,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+RET:MUG:PYB:1242,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:CHA:1243,Hot Beverages,Tea,Chai Tea,2.5
+RET:MUG:PYB:1244,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1245,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:COF:LAT:1246,Hot Beverages,Coffee,Latte,3.5
+RET:KIT:DRI:1247,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1248,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1249,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:BAK:CIN:1250,Snacks,Baked,Cinammon Roll,2.5
+SNA:BAK:MUF:1251,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1252,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:KIT:FRE:1253,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1254,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:BAK:CIN:1255,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:MOC:1256,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1257,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:COF:MOC:1258,Hot Beverages,Coffee,Mocha,3.0
+SNA:BAK:MUF:1259,Snacks,Baked,Muffin,2.0
+HOT:TEA:EAR:1260,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:AME:1261,Hot Beverages,Coffee,Americano,2.5
+COL:ICE:ICE:1262,Cold Beverages,Iced Coffee,Iced Latte,4.5
+RET:MUG:PYB:1263,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:CAP:1264,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1265,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:DRI:1266,Retail,Kitchen Tool,Dripper,5.0
+HOT:COF:ESP:1267,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:COL:1268,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:FRE:1269,Retail,Kitchen Tool,French Press,10.0
+HOT:TEA:HER:1270,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:PAC:CHE:1271,Snacks,Packaged,Chewing Gum,1.5
+RET:KIT:PER:1272,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:PER:1273,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:FRE:1274,Retail,Kitchen Tool,French Press,10.0
+HOT:COF:LAT:1275,Hot Beverages,Coffee,Latte,3.5
+SNA:BAK:CRO:1276,Snacks,Baked,Croissant,1.0
+HOT:COF:ESP:1277,Hot Beverages,Coffee,Espresso,2.0
+SNA:PAC:TRA:1278,Snacks,Packaged,Trail Mix,2.0
+RET:KIT:DRI:1279,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1280,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:DRI:1281,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:MUF:1282,Snacks,Baked,Muffin,2.0
+RET:KIT:FRE:1283,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:CIN:1284,Snacks,Baked,Cinammon Roll,2.5
+RET:KIT:DRI:1285,Retail,Kitchen Tool,Dripper,5.0
+HOT:COF:MOC:1286,Hot Beverages,Coffee,Mocha,3.0
+RET:MUG:PYB:1287,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:MUG:PYB:1288,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:CHA:1289,Hot Beverages,Tea,Chai Tea,2.5
+RET:MUG:PYB:1290,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1291,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+RET:MUG:PYB:1292,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1293,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:BAK:BAG:1294,Snacks,Baked,Bagel,1.5
+RET:KIT:PER:1295,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1296,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1297,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:GRE:1298,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:ICE:1299,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:MUG:PYB:1300,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:GRE:1301,Hot Beverages,Tea,Green Tea,2.0
+RET:MUG:PYB:1302,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:COL:1303,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:DRI:1304,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:MUF:1305,Snacks,Baked,Muffin,2.0
+SNA:BAK:CRO:1306,Snacks,Baked,Croissant,1.0
+SNA:BAK:COO:1307,Snacks,Baked,Cookie,2.5
+SNA:BAK:COO:1308,Snacks,Baked,Cookie,2.5
+RET:KIT:FRE:1309,Retail,Kitchen Tool,French Press,10.0
+HOT:TEA:BLA:1310,Hot Beverages,Tea,Black Tea,1.5
+HOT:COF:AME:1311,Hot Beverages,Coffee,Americano,2.5
+SNA:PAC:CHE:1312,Snacks,Packaged,Chewing Gum,1.5
+HOT:TEA:CHA:1313,Hot Beverages,Tea,Chai Tea,2.5
+HOT:COF:ESP:1314,Hot Beverages,Coffee,Espresso,2.0
+SNA:BAK:MUF:1315,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1316,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:BAK:MUF:1317,Snacks,Baked,Muffin,2.0
+COL:ICE:COL:1318,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:BAK:COO:1319,Snacks,Baked,Cookie,2.5
+COL:ICE:ICE:1320,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:BAK:COO:1321,Snacks,Baked,Cookie,2.5
+HOT:COF:CAP:1322,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1323,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:PAC:TRA:1324,Snacks,Packaged,Trail Mix,2.0
+SNA:BAK:BAG:1325,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1326,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:PAC:CHE:1327,Snacks,Packaged,Chewing Gum,1.5
+HOT:TEA:HER:1328,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1329,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1330,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+RET:KIT:DRI:1331,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:COL:1332,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:MUG:PYB:1333,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:COL:1334,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1335,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:COF:MOC:1336,Hot Beverages,Coffee,Mocha,3.0
+SNA:PAC:TRA:1337,Snacks,Packaged,Trail Mix,2.0
+SNA:PAC:GRO:1338,Snacks,Packaged,Gronola Bar,1.5
+HOT:TEA:EAR:1339,Hot Beverages,Tea,Earl Grey Tea,2.0
+SNA:PAC:TRA:1340,Snacks,Packaged,Trail Mix,2.0
+COL:ICE:ICE:1341,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+RET:KIT:DRI:1342,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:CRO:1343,Snacks,Baked,Croissant,1.0
+HOT:COF:LAT:1344,Hot Beverages,Coffee,Latte,3.5
+COL:ICE:COL:1345,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1346,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1347,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1348,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:PAC:TRA:1349,Snacks,Packaged,Trail Mix,2.0
+HOT:TEA:BLA:1350,Hot Beverages,Tea,Black Tea,1.5
+COL:ICE:ICE:1351,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:COF:LAT:1352,Hot Beverages,Coffee,Latte,3.5
+SNA:BAK:CIN:1353,Snacks,Baked,Cinammon Roll,2.5
+COL:ICE:ICE:1354,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:COF:AME:1355,Hot Beverages,Coffee,Americano,2.5
+RET:MUG:PYB:1356,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:M&M:1357,Snacks,Packaged,M&M,1.75
+SNA:PAC:TRA:1358,Snacks,Packaged,Trail Mix,2.0
+SNA:BAK:CRO:1359,Snacks,Baked,Croissant,1.0
+RET:MUG:PYB:1360,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1361,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:COF:CAP:1362,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1363,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+RET:MUG:PYB:1364,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CRO:1365,Snacks,Baked,Croissant,1.0
+SNA:BAK:MUF:1366,Snacks,Baked,Muffin,2.0
+SNA:PAC:M&M:1367,Snacks,Packaged,M&M,1.75
+HOT:TEA:HER:1368,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:TEA:CHA:1369,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1370,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:KIT:DRI:1371,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:FRU:1372,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1373,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:COL:1374,Cold Beverages,Iced Coffee,Cold Brew,4.5
+HOT:TEA:CHA:1375,Hot Beverages,Tea,Chai Tea,2.5
+HOT:COF:MOC:1376,Hot Beverages,Coffee,Mocha,3.0
+RET:MUG:PYB:1377,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:DRI:1378,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1379,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:COL:1380,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1381,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+RET:KIT:FRE:1382,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1383,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+COL:ICE:ICE:1384,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:BAK:MUF:1385,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1386,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1387,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:BAK:MUF:1388,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1389,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:HER:1390,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:COF:AME:1391,Hot Beverages,Coffee,Americano,2.5
+SNA:BAK:CIN:1392,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:MOC:1393,Hot Beverages,Coffee,Mocha,3.0
+HOT:TEA:EAR:1394,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1395,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:PAC:TRA:1396,Snacks,Packaged,Trail Mix,2.0
+HOT:TEA:CHA:1397,Hot Beverages,Tea,Chai Tea,2.5
+HOT:COF:MOC:1398,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1399,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:COF:MOC:1400,Hot Beverages,Coffee,Mocha,3.0
+SNA:BAK:CIN:1401,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:LAT:1402,Hot Beverages,Coffee,Latte,3.5
+RET:MUG:PYB:1403,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:EAR:1404,Hot Beverages,Tea,Earl Grey Tea,2.0
+SNA:BAK:MUF:1405,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1406,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:KIT:FRE:1407,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:FRE:1408,Retail,Kitchen Tool,French Press,10.0
+HOT:COF:MOC:1409,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1410,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:BAK:COO:1411,Snacks,Baked,Cookie,2.5
+RET:MUG:PYB:1412,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:COF:MOC:1413,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1414,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:PAC:CHE:1415,Snacks,Packaged,Chewing Gum,1.5
+HOT:TEA:BLA:1416,Hot Beverages,Tea,Black Tea,1.5
+RET:MUG:PYB:1417,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1418,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:CRO:1419,Snacks,Baked,Croissant,1.0
+SNA:BAK:BAG:1420,Snacks,Baked,Bagel,1.5
+HOT:COF:CAP:1421,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1422,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:BAK:COO:1423,Snacks,Baked,Cookie,2.5
+HOT:COF:AME:1424,Hot Beverages,Coffee,Americano,2.5
+SNA:BAK:CRO:1425,Snacks,Baked,Croissant,1.0
+HOT:TEA:HER:1426,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1427,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:ICE:1428,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+RET:KIT:PER:1429,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1430,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1431,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:GRE:1432,Hot Beverages,Tea,Green Tea,2.0
+SNA:BAK:COO:1433,Snacks,Baked,Cookie,2.5
+COL:ICE:ICE:1434,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1435,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:COF:ESP:1436,Hot Beverages,Coffee,Espresso,2.0
+SNA:BAK:BAG:1437,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1438,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:BAK:CRO:1439,Snacks,Baked,Croissant,1.0
+COL:ICE:ICE:1440,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1441,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+HOT:COF:MOC:1442,Hot Beverages,Coffee,Mocha,3.0
+RET:KIT:PER:1443,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:FRE:1444,Retail,Kitchen Tool,French Press,10.0
+RET:MUG:PYB:1445,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1446,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1447,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1448,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:MUG:PYB:1449,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CRO:1450,Snacks,Baked,Croissant,1.0
+HOT:TEA:CHA:1451,Hot Beverages,Tea,Chai Tea,2.5
+HOT:TEA:EAR:1452,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:GRE:1453,Hot Beverages,Tea,Green Tea,2.0
+HOT:TEA:GRE:1454,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:COL:1455,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:BAK:MUF:1456,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1457,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1458,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:KIT:DRI:1459,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:CRO:1460,Snacks,Baked,Croissant,1.0
+COL:ICE:ICE:1461,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:BAK:CIN:1462,Snacks,Baked,Cinammon Roll,2.5
+RET:KIT:PER:1463,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1464,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1465,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1466,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:BAK:CRO:1467,Snacks,Baked,Croissant,1.0
+HOT:COF:AME:1468,Hot Beverages,Coffee,Americano,2.5
+RET:MUG:PYB:1469,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1470,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:KIT:DRI:1471,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1472,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1473,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:MUF:1474,Snacks,Baked,Muffin,2.0
+HOT:COF:CAP:1475,Hot Beverages,Coffee,Cappuccino,4.0
+RET:MUG:PYB:1476,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1477,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:PAC:TRA:1478,Snacks,Packaged,Trail Mix,2.0
+SNA:PAC:CHE:1479,Snacks,Packaged,Chewing Gum,1.5
+COL:ICE:ICE:1480,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:COL:1481,Cold Beverages,Iced Coffee,Cold Brew,4.5
+HOT:TEA:HER:1482,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:PAC:M&M:1483,Snacks,Packaged,M&M,1.75
+COL:ICE:ICE:1484,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:KIT:DRI:1485,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1486,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CRO:1487,Snacks,Baked,Croissant,1.0
+RET:KIT:FRE:1488,Retail,Kitchen Tool,French Press,10.0
+RET:MUG:PYB:1489,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CIN:1490,Snacks,Baked,Cinammon Roll,2.5
+SNA:PAC:FRU:1491,Snacks,Packaged,Fruit Cup,1.0
+SNA:BAK:CIN:1492,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:AME:1493,Hot Beverages,Coffee,Americano,2.5
+COL:ICE:ICE:1494,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+HOT:TEA:CHA:1495,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:COL:1496,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:FRE:1497,Retail,Kitchen Tool,French Press,10.0
+HOT:TEA:BLA:1498,Hot Beverages,Tea,Black Tea,1.5
+RET:MUG:PYB:1499,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:LAT:1500,Hot Beverages,Coffee,Latte,3.5
+SNA:PAC:FRU:1501,Snacks,Packaged,Fruit Cup,1.0
+RET:KIT:DRI:1502,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:COL:1503,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:MUG:PYB:1504,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1505,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:BAG:1506,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1507,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1508,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:CAP:1509,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:AME:1510,Hot Beverages,Coffee,Americano,2.5
+HOT:TEA:EAR:1511,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1512,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:DRI:1513,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:GRO:1514,Snacks,Packaged,Gronola Bar,1.5
+HOT:TEA:BLA:1515,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:GRE:1516,Hot Beverages,Tea,Green Tea,2.0
+SNA:PAC:CHE:1517,Snacks,Packaged,Chewing Gum,1.5
+RET:KIT:FRE:1518,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:COL:1519,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:MUG:PYB:1520,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1521,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:BAK:BAG:1522,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1523,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1524,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:COO:1525,Snacks,Baked,Cookie,2.5
+HOT:TEA:EAR:1526,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1527,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1528,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:PAC:M&M:1529,Snacks,Packaged,M&M,1.75
+HOT:TEA:CHA:1530,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1531,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:PAC:CHE:1532,Snacks,Packaged,Chewing Gum,1.5
+HOT:COF:CAP:1533,Hot Beverages,Coffee,Cappuccino,4.0
+SNA:BAK:BAG:1534,Snacks,Baked,Bagel,1.5
+RET:MUG:PYB:1535,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:BAG:1536,Snacks,Baked,Bagel,1.5
+HOT:TEA:CHA:1537,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1538,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:KIT:FRE:1539,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1540,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:PAC:TRA:1541,Snacks,Packaged,Trail Mix,2.0
+COL:ICE:ICE:1542,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+RET:MUG:PYB:1543,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:COF:MOC:1544,Hot Beverages,Coffee,Mocha,3.0
+HOT:TEA:EAR:1545,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:KIT:FRE:1546,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:COO:1547,Snacks,Baked,Cookie,2.5
+HOT:COF:ESP:1548,Hot Beverages,Coffee,Espresso,2.0
+RET:KIT:PER:1549,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1550,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:PAC:M&M:1551,Snacks,Packaged,M&M,1.75
+SNA:BAK:MUF:1552,Snacks,Baked,Muffin,2.0
+RET:KIT:DRI:1553,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1554,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:EAR:1555,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:MUG:PYB:1556,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1557,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+COL:ICE:ICE:1558,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+HOT:TEA:EAR:1559,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:MUG:PYB:1560,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:CHA:1561,Hot Beverages,Tea,Chai Tea,2.5
+SNA:BAK:CRO:1562,Snacks,Baked,Croissant,1.0
+RET:KIT:DRI:1563,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:M&M:1564,Snacks,Packaged,M&M,1.75
+SNA:PAC:TRA:1565,Snacks,Packaged,Trail Mix,2.0
+SNA:PAC:M&M:1566,Snacks,Packaged,M&M,1.75
+RET:MUG:PYB:1567,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1568,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+HOT:TEA:CHA:1569,Hot Beverages,Tea,Chai Tea,2.5
+HOT:TEA:EAR:1570,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:ESP:1571,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1572,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+RET:KIT:DRI:1573,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:CIN:1574,Snacks,Baked,Cinammon Roll,2.5
+RET:KIT:PER:1575,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:FRE:1576,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:FRU:1577,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1578,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:ICE:1579,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:GRE:1580,Hot Beverages,Tea,Green Tea,2.0
+RET:MUG:PYB:1581,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1582,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+COL:ICE:ICE:1583,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+HOT:COF:LAT:1584,Hot Beverages,Coffee,Latte,3.5
+RET:KIT:FRE:1585,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:DRI:1586,Retail,Kitchen Tool,Dripper,5.0
+RET:MUG:PYB:1587,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:FRE:1588,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:BAG:1589,Snacks,Baked,Bagel,1.5
+RET:MUG:PYB:1590,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1591,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+SNA:BAK:MUF:1592,Snacks,Baked,Muffin,2.0
+SNA:BAK:MUF:1593,Snacks,Baked,Muffin,2.0
+RET:KIT:DRI:1594,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:DRI:1595,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:FRU:1596,Snacks,Packaged,Fruit Cup,1.0
+SNA:PAC:TRA:1597,Snacks,Packaged,Trail Mix,2.0
+RET:MUG:PYB:1598,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:CHA:1599,Hot Beverages,Tea,Chai Tea,2.5
+HOT:COF:LAT:1600,Hot Beverages,Coffee,Latte,3.5
+COL:ICE:ICE:1601,Cold Beverages,Iced Coffee,Iced Latte,4.5
+COL:ICE:ICE:1602,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:BAK:BAG:1603,Snacks,Baked,Bagel,1.5
+HOT:TEA:EAR:1604,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:HER:1605,Hot Beverages,Tea,Herbal Tea,1.5
+RET:MUG:PYB:1606,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:KIT:DRI:1607,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:GRO:1608,Snacks,Packaged,Gronola Bar,1.5
+SNA:PAC:FRU:1609,Snacks,Packaged,Fruit Cup,1.0
+HOT:COF:AME:1610,Hot Beverages,Coffee,Americano,2.5
+HOT:COF:MOC:1611,Hot Beverages,Coffee,Mocha,3.0
+HOT:COF:AME:1612,Hot Beverages,Coffee,Americano,2.5
+HOT:TEA:GRE:1613,Hot Beverages,Tea,Green Tea,2.0
+HOT:COF:LAT:1614,Hot Beverages,Coffee,Latte,3.5
+SNA:BAK:BAG:1615,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1616,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:PAC:TRA:1617,Snacks,Packaged,Trail Mix,2.0
+SNA:PAC:M&M:1618,Snacks,Packaged,M&M,1.75
+COL:ICE:ICE:1619,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:PAC:TRA:1620,Snacks,Packaged,Trail Mix,2.0
+COL:ICE:ICE:1621,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:PAC:FRU:1622,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1623,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:COL:1624,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:BAK:CIN:1625,Snacks,Baked,Cinammon Roll,2.5
+COL:ICE:COL:1626,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:BAK:CRO:1627,Snacks,Baked,Croissant,1.0
+HOT:TEA:CHA:1628,Hot Beverages,Tea,Chai Tea,2.5
+HOT:COF:CAP:1629,Hot Beverages,Coffee,Cappuccino,4.0
+RET:MUG:PYB:1630,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:GRO:1631,Snacks,Packaged,Gronola Bar,1.5
+HOT:COF:LAT:1632,Hot Beverages,Coffee,Latte,3.5
+COL:ICE:ICE:1633,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+COL:ICE:ICE:1634,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:PAC:TRA:1635,Snacks,Packaged,Trail Mix,2.0
+SNA:BAK:COO:1636,Snacks,Baked,Cookie,2.5
+HOT:TEA:GRE:1637,Hot Beverages,Tea,Green Tea,2.0
+RET:KIT:DRI:1638,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:PER:1639,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1640,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1641,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:ICE:1642,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1643,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:KIT:PER:1644,Retail,Kitchen Tool,Perculator,15.0
+HOT:TEA:EAR:1645,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:BLA:1646,Hot Beverages,Tea,Black Tea,1.5
+SNA:PAC:FRU:1647,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1648,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:GRE:1649,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:ICE:1650,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:CHA:1651,Hot Beverages,Tea,Chai Tea,2.5
+SNA:PAC:CHE:1652,Snacks,Packaged,Chewing Gum,1.5
+HOT:COF:MOC:1653,Hot Beverages,Coffee,Mocha,3.0
+SNA:BAK:CRO:1654,Snacks,Baked,Croissant,1.0
+RET:MUG:PYB:1655,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1656,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1657,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:CHE:1658,Snacks,Packaged,Chewing Gum,1.5
+RET:KIT:DRI:1659,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:TRA:1660,Snacks,Packaged,Trail Mix,2.0
+RET:MUG:PYB:1661,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1662,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1663,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:KIT:DRI:1664,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1665,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+HOT:COF:AME:1666,Hot Beverages,Coffee,Americano,2.5
+RET:KIT:DRI:1667,Retail,Kitchen Tool,Dripper,5.0
+SNA:PAC:FRU:1668,Snacks,Packaged,Fruit Cup,1.0
+HOT:COF:CAP:1669,Hot Beverages,Coffee,Cappuccino,4.0
+SNA:BAK:BAG:1670,Snacks,Baked,Bagel,1.5
+SNA:PAC:M&M:1671,Snacks,Packaged,M&M,1.75
+SNA:PAC:FRU:1672,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1673,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:BAK:BAG:1674,Snacks,Baked,Bagel,1.5
+SNA:PAC:CHE:1675,Snacks,Packaged,Chewing Gum,1.5
+HOT:COF:MOC:1676,Hot Beverages,Coffee,Mocha,3.0
+SNA:PAC:GRO:1677,Snacks,Packaged,Gronola Bar,1.5
+RET:MUG:PYB:1678,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:BLA:1679,Hot Beverages,Tea,Black Tea,1.5
+COL:ICE:ICE:1680,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:BLA:1681,Hot Beverages,Tea,Black Tea,1.5
+RET:KIT:FRE:1682,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:M&M:1683,Snacks,Packaged,M&M,1.75
+SNA:PAC:CHE:1684,Snacks,Packaged,Chewing Gum,1.5
+HOT:COF:MOC:1685,Hot Beverages,Coffee,Mocha,3.0
+SNA:PAC:M&M:1686,Snacks,Packaged,M&M,1.75
+SNA:BAK:COO:1687,Snacks,Baked,Cookie,2.5
+HOT:COF:ESP:1688,Hot Beverages,Coffee,Espresso,2.0
+RET:KIT:DRI:1689,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:DRI:1690,Retail,Kitchen Tool,Dripper,5.0
+SNA:BAK:CIN:1691,Snacks,Baked,Cinammon Roll,2.5
+HOT:TEA:BLA:1692,Hot Beverages,Tea,Black Tea,1.5
+COL:ICE:ICE:1693,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+COL:ICE:ICE:1694,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:PER:1695,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:COL:1696,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1697,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:PAC:M&M:1698,Snacks,Packaged,M&M,1.75
+HOT:TEA:BLA:1699,Hot Beverages,Tea,Black Tea,1.5
+RET:KIT:DRI:1700,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:DRI:1701,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1702,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:BAK:COO:1703,Snacks,Baked,Cookie,2.5
+RET:KIT:FRE:1704,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1705,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:MUG:PYB:1706,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:CRO:1707,Snacks,Baked,Croissant,1.0
+RET:MUG:PYB:1708,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1709,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1710,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+HOT:TEA:HER:1711,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1712,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:PAC:M&M:1713,Snacks,Packaged,M&M,1.75
+SNA:BAK:CRO:1714,Snacks,Baked,Croissant,1.0
+RET:KIT:PER:1715,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1716,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:EAR:1717,Hot Beverages,Tea,Earl Grey Tea,2.0
+RET:KIT:DRI:1718,Retail,Kitchen Tool,Dripper,5.0
+HOT:TEA:GRE:1719,Hot Beverages,Tea,Green Tea,2.0
+COL:ICE:ICE:1720,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:PAC:GRO:1721,Snacks,Packaged,Gronola Bar,1.5
+SNA:BAK:BAG:1722,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1723,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+COL:ICE:ICE:1724,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:FRE:1725,Retail,Kitchen Tool,French Press,10.0
+SNA:PAC:FRU:1726,Snacks,Packaged,Fruit Cup,1.0
+HOT:COF:CAP:1727,Hot Beverages,Coffee,Cappuccino,4.0
+SNA:BAK:COO:1728,Snacks,Baked,Cookie,2.5
+SNA:BAK:COO:1729,Snacks,Baked,Cookie,2.5
+HOT:COF:AME:1730,Hot Beverages,Coffee,Americano,2.5
+RET:KIT:PER:1731,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1732,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:HER:1733,Hot Beverages,Tea,Herbal Tea,1.5
+HOT:COF:LAT:1734,Hot Beverages,Coffee,Latte,3.5
+HOT:COF:ESP:1735,Hot Beverages,Coffee,Espresso,2.0
+RET:KIT:PER:1736,Retail,Kitchen Tool,Perculator,15.0
+RET:KIT:FRE:1737,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:CIN:1738,Snacks,Baked,Cinammon Roll,2.5
+COL:ICE:ICE:1739,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:COF:LAT:1740,Hot Beverages,Coffee,Latte,3.5
+RET:KIT:DRI:1741,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1742,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+SNA:PAC:M&M:1743,Snacks,Packaged,M&M,1.75
+SNA:BAK:CRO:1744,Snacks,Baked,Croissant,1.0
+SNA:PAC:FRU:1745,Snacks,Packaged,Fruit Cup,1.0
+HOT:COF:AME:1746,Hot Beverages,Coffee,Americano,2.5
+COL:ICE:ICE:1747,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1748,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:COF:LAT:1749,Hot Beverages,Coffee,Latte,3.5
+COL:ICE:ICE:1750,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:HER:1751,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1752,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:COL:1753,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1754,Cold Beverages,Iced Coffee,Iced Latte,4.5
+RET:MUG:PYB:1755,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:BAG:1756,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1757,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+COL:ICE:COL:1758,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:MUG:PYB:1759,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:MUF:1760,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1761,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:PAC:FRU:1762,Snacks,Packaged,Fruit Cup,1.0
+SNA:BAK:MUF:1763,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1764,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:ICE:1765,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1766,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:EAR:1767,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:MOC:1768,Hot Beverages,Coffee,Mocha,3.0
+COL:ICE:ICE:1769,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:COF:LAT:1770,Hot Beverages,Coffee,Latte,3.5
+RET:KIT:PER:1771,Retail,Kitchen Tool,Perculator,15.0
+SNA:PAC:FRU:1772,Snacks,Packaged,Fruit Cup,1.0
+RET:MUG:PYB:1773,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1774,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1775,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:MUG:PYB:1776,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:PAC:TRA:1777,Snacks,Packaged,Trail Mix,2.0
+COL:ICE:ICE:1778,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+RET:KIT:PER:1779,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1780,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:PAC:GRO:1781,Snacks,Packaged,Gronola Bar,1.5
+HOT:COF:ESP:1782,Hot Beverages,Coffee,Espresso,2.0
+SNA:PAC:M&M:1783,Snacks,Packaged,M&M,1.75
+RET:MUG:PYB:1784,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:GRO:1785,Snacks,Packaged,Gronola Bar,1.5
+COL:ICE:ICE:1786,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:BAK:CIN:1787,Snacks,Baked,Cinammon Roll,2.5
+HOT:TEA:CHA:1788,Hot Beverages,Tea,Chai Tea,2.5
+RET:MUG:PYB:1789,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:BAG:1790,Snacks,Baked,Bagel,1.5
+HOT:COF:CAP:1791,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1792,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:KIT:FRE:1793,Retail,Kitchen Tool,French Press,10.0
+HOT:COF:ESP:1794,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1795,Cold Beverages,Iced Coffee,Iced Latte,4.5
+RET:KIT:PER:1796,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:COL:1797,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:COL:1798,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:ICE:1799,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+RET:KIT:PER:1800,Retail,Kitchen Tool,Perculator,15.0
+SNA:PAC:GRO:1801,Snacks,Packaged,Gronola Bar,1.5
+HOT:TEA:GRE:1802,Hot Beverages,Tea,Green Tea,2.0
+HOT:TEA:EAR:1803,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:COL:1804,Cold Beverages,Iced Coffee,Cold Brew,4.5
+COL:ICE:COL:1805,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:PER:1806,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1807,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+COL:ICE:ICE:1808,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+SNA:BAK:CRO:1809,Snacks,Baked,Croissant,1.0
+HOT:COF:MOC:1810,Hot Beverages,Coffee,Mocha,3.0
+HOT:COF:ESP:1811,Hot Beverages,Coffee,Espresso,2.0
+RET:MUG:PYB:1812,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:BLA:1813,Hot Beverages,Tea,Black Tea,1.5
+RET:KIT:FRE:1814,Retail,Kitchen Tool,French Press,10.0
+RET:MUG:PYB:1815,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:CRO:1816,Snacks,Baked,Croissant,1.0
+SNA:BAK:MUF:1817,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1818,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+COL:ICE:ICE:1819,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:PAC:FRU:1820,Snacks,Packaged,Fruit Cup,1.0
+HOT:COF:MOC:1821,Hot Beverages,Coffee,Mocha,3.0
+HOT:TEA:BLA:1822,Hot Beverages,Tea,Black Tea,1.5
+SNA:BAK:BAG:1823,Snacks,Baked,Bagel,1.5
+HOT:TEA:HER:1824,Hot Beverages,Tea,Herbal Tea,1.5
+RET:KIT:DRI:1825,Retail,Kitchen Tool,Dripper,5.0
+COL:ICE:ICE:1826,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+COL:ICE:ICE:1827,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+HOT:COF:AME:1828,Hot Beverages,Coffee,Americano,2.5
+RET:KIT:DRI:1829,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:DRI:1830,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:FRE:1831,Retail,Kitchen Tool,French Press,10.0
+RET:MUG:PYB:1832,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1833,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1834,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:BLA:1835,Hot Beverages,Tea,Black Tea,1.5
+HOT:COF:MOC:1836,Hot Beverages,Coffee,Mocha,3.0
+SNA:BAK:COO:1837,Snacks,Baked,Cookie,2.5
+RET:MUG:PYB:1838,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:MUG:PYB:1839,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1840,Cold Beverages,Iced Coffee,Iced Latte,4.5
+SNA:PAC:M&M:1841,Snacks,Packaged,M&M,1.75
+SNA:BAK:MUF:1842,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1843,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:FRU:1844,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1845,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:ICE:1846,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:COF:ESP:1847,Hot Beverages,Coffee,Espresso,2.0
+SNA:BAK:MUF:1848,Snacks,Baked,Muffin,2.0
+RET:MUG:PYB:1849,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:KIT:FRE:1850,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1851,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+SNA:BAK:CIN:1852,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:ESP:1853,Hot Beverages,Coffee,Espresso,2.0
+HOT:COF:LAT:1854,Hot Beverages,Coffee,Latte,3.5
+COL:ICE:ICE:1855,Cold Beverages,Iced Coffee,Iced Latte,4.5
+COL:ICE:ICE:1856,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+RET:MUG:PYB:1857,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CIN:1858,Snacks,Baked,Cinammon Roll,2.5
+RET:KIT:PER:1859,Retail,Kitchen Tool,Perculator,15.0
+HOT:COF:AME:1860,Hot Beverages,Coffee,Americano,2.5
+HOT:COF:CAP:1861,Hot Beverages,Coffee,Cappuccino,4.0
+RET:KIT:FRE:1862,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:CIN:1863,Snacks,Baked,Cinammon Roll,2.5
+COL:ICE:ICE:1864,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:CHA:1865,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1866,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:TEA:BLA:1867,Hot Beverages,Tea,Black Tea,1.5
+COL:ICE:ICE:1868,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+COL:ICE:ICE:1869,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+HOT:COF:ESP:1870,Hot Beverages,Coffee,Espresso,2.0
+HOT:COF:ESP:1871,Hot Beverages,Coffee,Espresso,2.0
+RET:MUG:PYB:1872,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1873,Cold Beverages,Iced Coffee,Iced Americano,3.5
+HOT:TEA:BLA:1874,Hot Beverages,Tea,Black Tea,1.5
+HOT:COF:AME:1875,Hot Beverages,Coffee,Americano,2.5
+HOT:TEA:HER:1876,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:BAK:BAG:1877,Snacks,Baked,Bagel,1.5
+SNA:PAC:GRO:1878,Snacks,Packaged,Gronola Bar,1.5
+COL:ICE:ICE:1879,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+SNA:PAC:FRU:1880,Snacks,Packaged,Fruit Cup,1.0
+SNA:BAK:BAG:1881,Snacks,Baked,Bagel,1.5
+HOT:COF:AME:1882,Hot Beverages,Coffee,Americano,2.5
+HOT:TEA:HER:1883,Hot Beverages,Tea,Herbal Tea,1.5
+RET:MUG:PYB:1884,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+HOT:TEA:BLA:1885,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:HER:1886,Hot Beverages,Tea,Herbal Tea,1.5
+RET:KIT:FRE:1887,Retail,Kitchen Tool,French Press,10.0
+SNA:BAK:COO:1888,Snacks,Baked,Cookie,2.5
+SNA:BAK:MUF:1889,Snacks,Baked,Muffin,2.0
+SNA:BAK:MUF:1890,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1891,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:PAC:TRA:1892,Snacks,Packaged,Trail Mix,2.0
+HOT:COF:CAP:1893,Hot Beverages,Coffee,Cappuccino,4.0
+RET:MUG:PYB:1894,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+RET:KIT:FRE:1895,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:DRI:1896,Retail,Kitchen Tool,Dripper,5.0
+RET:KIT:FRE:1897,Retail,Kitchen Tool,French Press,10.0
+COL:ICE:ICE:1898,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+HOT:COF:LAT:1899,Hot Beverages,Coffee,Latte,3.5
+SNA:PAC:FRU:1900,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1901,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+SNA:PAC:GRO:1902,Snacks,Packaged,Gronola Bar,1.5
+RET:KIT:PER:1903,Retail,Kitchen Tool,Perculator,15.0
+RET:MUG:PYB:1904,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:BAK:MUF:1905,Snacks,Baked,Muffin,2.0
+COL:ICE:ICE:1906,Cold Beverages,Iced Coffee,Iced Americano,3.5
+RET:KIT:PER:1907,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1908,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:TEA:GRE:1909,Hot Beverages,Tea,Green Tea,2.0
+SNA:PAC:CHE:1910,Snacks,Packaged,Chewing Gum,1.5
+COL:ICE:ICE:1911,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:PAC:GRO:1912,Snacks,Packaged,Gronola Bar,1.5
+COL:ICE:ICE:1913,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+COL:ICE:COL:1914,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:PAC:M&M:1915,Snacks,Packaged,M&M,1.75
+SNA:BAK:CRO:1916,Snacks,Baked,Croissant,1.0
+HOT:COF:CAP:1917,Hot Beverages,Coffee,Cappuccino,4.0
+COL:ICE:ICE:1918,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+COL:ICE:COL:1919,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:BAK:BAG:1920,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1921,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+HOT:COF:ESP:1922,Hot Beverages,Coffee,Espresso,2.0
+HOT:TEA:EAR:1923,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:COF:ESP:1924,Hot Beverages,Coffee,Espresso,2.0
+COL:ICE:ICE:1925,Cold Beverages,Iced Coffee,Iced Latte,4.5
+COL:ICE:ICE:1926,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+SNA:BAK:CRO:1927,Snacks,Baked,Croissant,1.0
+COL:ICE:ICE:1928,Cold Beverages,Iced Coffee,Iced Americano,3.5
+SNA:BAK:CIN:1929,Snacks,Baked,Cinammon Roll,2.5
+SNA:BAK:COO:1930,Snacks,Baked,Cookie,2.5
+SNA:PAC:M&M:1931,Snacks,Packaged,M&M,1.75
+RET:KIT:FRE:1932,Retail,Kitchen Tool,French Press,10.0
+RET:KIT:DRI:1933,Retail,Kitchen Tool,Dripper,5.0
+HOT:TEA:EAR:1934,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:EAR:1935,Hot Beverages,Tea,Earl Grey Tea,2.0
+HOT:TEA:BLA:1936,Hot Beverages,Tea,Black Tea,1.5
+SNA:PAC:FRU:1937,Snacks,Packaged,Fruit Cup,1.0
+RET:MUG:PYB:1938,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:BAG:1939,Snacks,Baked,Bagel,1.5
+SNA:BAK:BAG:1940,Snacks,Baked,Bagel,1.5
+RET:MUG:PYB:1941,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:COO:1942,Snacks,Baked,Cookie,2.5
+SNA:BAK:BAG:1943,Snacks,Baked,Bagel,1.5
+HOT:COF:ESP:1944,Hot Beverages,Coffee,Espresso,2.0
+SNA:BAK:BAG:1945,Snacks,Baked,Bagel,1.5
+SNA:BAK:CIN:1946,Snacks,Baked,Cinammon Roll,2.5
+HOT:COF:CAP:1947,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:COF:CAP:1948,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:TEA:HER:1949,Hot Beverages,Tea,Herbal Tea,1.5
+SNA:BAK:CIN:1950,Snacks,Baked,Cinammon Roll,2.5
+COL:ICE:ICE:1951,Cold Beverages,Iced Tea,Iced Green Tea,3.0
+COL:ICE:ICE:1952,Cold Beverages,Iced Coffee,Iced Cappuccino,5.0
+HOT:TEA:BLA:1953,Hot Beverages,Tea,Black Tea,1.5
+SNA:BAK:MUF:1954,Snacks,Baked,Muffin,2.0
+COL:ICE:COL:1955,Cold Beverages,Iced Coffee,Cold Brew,4.5
+RET:KIT:PER:1956,Retail,Kitchen Tool,Perculator,15.0
+COL:ICE:ICE:1957,Cold Beverages,Iced Coffee,Iced Latte,4.5
+COL:ICE:ICE:1958,Cold Beverages,Iced Coffee,Iced Mocha,4.0
+COL:ICE:ICE:1959,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+SNA:PAC:M&M:1960,Snacks,Packaged,M&M,1.75
+HOT:COF:ESP:1961,Hot Beverages,Coffee,Espresso,2.0
+RET:KIT:FRE:1962,Retail,Kitchen Tool,French Press,10.0
+RET:MUG:PYB:1963,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+COL:ICE:ICE:1964,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+SNA:BAK:BAG:1965,Snacks,Baked,Bagel,1.5
+COL:ICE:ICE:1966,Cold Beverages,Iced Coffee,Iced Latte,4.5
+HOT:TEA:BLA:1967,Hot Beverages,Tea,Black Tea,1.5
+HOT:COF:LAT:1968,Hot Beverages,Coffee,Latte,3.5
+HOT:TEA:GRE:1969,Hot Beverages,Tea,Green Tea,2.0
+SNA:PAC:FRU:1970,Snacks,Packaged,Fruit Cup,1.0
+COL:ICE:ICE:1971,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+RET:MUG:PYB:1972,Retail,Mug,PyBrew I Wish You Were Here Mug 12oz,10.0
+SNA:PAC:CHE:1973,Snacks,Packaged,Chewing Gum,1.5
+SNA:BAK:COO:1974,Snacks,Baked,Cookie,2.5
+HOT:COF:CAP:1975,Hot Beverages,Coffee,Cappuccino,4.0
+HOT:TEA:CHA:1976,Hot Beverages,Tea,Chai Tea,2.5
+COL:ICE:ICE:1977,Cold Beverages,Iced Tea,Iced Earl Grey Tea,3.0
+SNA:BAK:CRO:1978,Snacks,Baked,Croissant,1.0
+SNA:BAK:BAG:1979,Snacks,Baked,Bagel,1.5
+RET:MUG:PYB:1980,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+RET:MUG:PYB:1981,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:COO:1982,Snacks,Baked,Cookie,2.5
+HOT:COF:MOC:1983,Hot Beverages,Coffee,Mocha,3.0
+HOT:COF:MOC:1984,Hot Beverages,Coffee,Mocha,3.0
+RET:MUG:PYB:1985,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+HOT:TEA:BLA:1986,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:EAR:1987,Hot Beverages,Tea,Earl Grey Tea,2.0
+COL:ICE:ICE:1988,Cold Beverages,Iced Tea,Iced Herbal Tea,2.5
+HOT:TEA:BLA:1989,Hot Beverages,Tea,Black Tea,1.5
+HOT:TEA:BLA:1990,Hot Beverages,Tea,Black Tea,1.5
+RET:KIT:DRI:1991,Retail,Kitchen Tool,Dripper,5.0
+HOT:TEA:HER:1992,Hot Beverages,Tea,Herbal Tea,1.5
+COL:ICE:ICE:1993,Cold Beverages,Iced Tea,Iced Chai Tea,3.5
+COL:ICE:ICE:1994,Cold Beverages,Iced Tea,Iced Black Tea,2.5
+COL:ICE:COL:1995,Cold Beverages,Iced Coffee,Cold Brew,4.5
+SNA:PAC:GRO:1996,Snacks,Packaged,Gronola Bar,1.5
+SNA:PAC:FRU:1997,Snacks,Packaged,Fruit Cup,1.0
+RET:MUG:PYB:1998,Retail,Mug,PyBrew Texas Edition Mug 36oz,15.0
+SNA:BAK:CIN:1999,Snacks,Baked,Cinammon Roll,2.5
