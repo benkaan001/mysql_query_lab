@@ -14,3 +14,5 @@ prettytable==3.7.0
 SQLAlchemy==2.0.11
 sqlparse==0.4.4
 Faker==18.7.0
+pandas==2.0.1
+ipywidgets==8.0.16

@@ -24,6 +24,8 @@ setup(
         'mysqlclient',
         'ipython-genutils',
         'Faker',
+        'pandas',
+        'ipywidgets',
     ],
     entry_points={
         'console_scripts': [

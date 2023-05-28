@@ -25,7 +25,6 @@ The project offers a user-friendly interface that allows users to interactively 
 
 
 ## File Structure
-
 ```
 mysql_query_lab/
 ├── venv/
@@ -59,10 +58,12 @@ mysql_query_lab/
 │   │           ├── create_database.ipynb
 │   │           ├── create_tables.ipynb
 │   │           └── seed_tables.ipynb
-│   └── utils/
-│       ├── config.py
-│       ├── create_database.py
-│       └── create_mysql_connection.py
+│   ├── utils/
+│   │   ├── config.py
+│   │   ├── create_database.py
+│   │   └── create_mysql_connection.py
+│   └── tests/
+│       └── test_products.ipynb
 ├── .gitignore
 ├── README.md
 └── requirements.txt
