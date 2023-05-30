@@ -1,9 +1,18 @@
 # MySQL Query Lab
 
-"MySQL Query Lab" is a data analysis and exploration project that uses notebooks to connect to a MySQL to create databases and run various queries at intermediate and advanced levels. With this project, users can explore and analyze their MySQL data with ease, thanks to the powerful querying capabilities of notebooks.
+MySQL Query Lab is a project for data analysis and exploration. It uses notebooks to connect to MySQL, create databases, generate synthetic data, run queries, and create and test pandas DataFrames.
 
-The project offers a user-friendly interface that allows users to interactively create, execute, and visualize queries, making it fun to create their own databases and practice their sql skills.
+Key Features:
 
+* ***Interactive querying:*** Create, execute, and visualize queries in notebooks.
+* ***Powerful querying capabilities:*** Execute complex SQL queries with ease.
+* ***Conversion to Pandas DataFrames:*** Convert query results into Pandas DataFrames for further analysis.
+* ***Unit testing with pytest:*** Write unit tests using pytest to ensure the accuracy of SQL queries.
+* ***Data generation with Faker:*** Generate synthetic data for test datasets or populating tables.
+* ***CSV data loading:*** Load data into tables from external sources.
+* ***User-friendly interface:*** Easy to navigate, create databases, and practice SQL skills.
+
+MySQL Query Lab empowers users to explore and analyze MySQL data effectively, while also simplifying the process of query creation, testing, and data manipulation.
 
 
 ## Requirements
@@ -21,7 +30,7 @@ The project offers a user-friendly interface that allows users to interactively 
 6. Install the project locally in the virtual environment using `pip install -e .`.
 7. Rename `.env.example` file to `.env` and fill your own database credentials.
 
-📌 ***Remember to activate the virtual environment every time you open a new terminal or command prompt window to work on your project. If you want to deactivate the virtual environment, simply run the command `deactivate` or run `source mysql_query_lab/env/bin/activate` to reactivate the virtual environment.***
+📌 ***Remember to activate the virtual environment when you open a new terminal or command prompt window to work on your project. If you want to deactivate the virtual environment, simply run the command `deactivate` or run `source mysql_query_lab/env/bin/activate` to reactivate the virtual environment.***
 
 
 ## File Structure
@@ -63,7 +72,8 @@ mysql_query_lab/
 │   │   ├── create_database.py
 │   │   └── create_mysql_connection.py
 │   └── tests/
-│       └── test_products.ipynb
+│       └── test_file1.py
+│       └── test_file2.py
 ├── .gitignore
 ├── README.md
 └── requirements.txt
