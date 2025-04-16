@@ -1,0 +1,32 @@
+# docker-compose.yml
+# Defines the services, networks, and volumes for the Docker application.
+
+version: '3.8' # Specifies the Docker Compose file version
+
+services:
+  # Defines the MySQL database service
+  db:
+    image: mysql:8.0 # Use a specific, stable version of the official MySQL image
+    container_name: mysql_query_lab_db # Assigns a specific name to the container
+    restart: unless-stopped # Policy to restart the container if it stops unexpectedly
+    environment:
+      # Environment variables passed to the MySQL container
+      # IMPORTANT: These values are read from the .env file at runtime
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD} # Sets the root password
+      MYSQL_DATABASE: ${MYSQL_DATABASE}           # Creates an initial database
+      MYSQL_USER: ${MYSQL_USER}                   # Creates a non-root user
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}           # Sets the password for the non-root user
+    ports:
+      # Maps port 3306 on the host to port 3306 in the container
+      # Allows connecting to MySQL from your local machine
+      - "3306:3306"
+    volumes:
+      # Mounts volumes for data persistence and initialization scripts
+      - mysql_data:/var/lib/mysql # Persists database data even if the container is removed
+      - ./sql/initdb:/docker-entrypoint-initdb.d # Mounts local SQL scripts for initialization
+                                                 # Scripts in this directory run automatically on first start
+
+volumes:
+  # Defines the named volume for data persistence
+  mysql_data:
+    driver: local # Specifies the local driver for the volume
