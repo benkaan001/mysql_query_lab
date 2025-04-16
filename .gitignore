@@ -1,8 +1,2 @@
 .env
 .DS_Store
-__pycache__/
-.pytest_cache/
-.ipynb_checkpoints/
-env/
-mysql_query_lab.egg-info/
-notes_to_self.txt
