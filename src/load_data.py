@@ -22,17 +22,18 @@ def load_data(csv_file_path):
 
     # Validate that environment variables are loaded
     if not all([db_user, db_password, db_name]):
-        logging.error("Database credentials or name not found in environment variables. Ensure .env file is set.")
+        logging.error("Database credentials or name not found in environment variables. Ensure .env file is set and loaded correctly.")
         return
 
     # Construct database connection URL for SQLAlchemy
     # Format: mysql+mysqlconnector://user:password@host:port/database
     db_url = f"mysql+mysqlconnector://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    logging.info(f"Attempting connection to: {db_host}:{db_port} as user {db_user}") # Added connection info log
 
     try:
         # Create SQLAlchemy engine
         engine = create_engine(db_url)
-        logging.info(f"Successfully created database engine for {db_name}")
+        logging.info(f"Successfully created database engine for {db_name}") # Note: Engine creation doesn't guarantee connection yet
 
         # Read data from CSV file using pandas
         logging.info(f"Reading data from {csv_file_path}...")
@@ -44,13 +45,11 @@ def load_data(csv_file_path):
 
         # Load data into the MySQL table
         # 'if_exists'='append': Adds data. If run again, it will add duplicates unless constraints prevent it.
-        # Consider 'replace' if you want to drop and recreate the table each time (careful!).
-        # For true idempotency, more complex logic (checking existence) might be needed.
         logging.info(f"Loading data into table '{table_name}'...")
         with engine.connect() as connection:
-             # Clear the table before loading for a fresh load each time
-             logging.warning(f"Clearing existing data from table '{table_name}'...")
-             connection.execute(text(f"TRUNCATE TABLE {table_name}"))
+             # Optional: Clear the table before loading if you want a fresh load each time
+             # logging.warning(f"Clearing existing data from table '{table_name}'...")
+             # connection.execute(text(f"TRUNCATE TABLE {table_name}")) # Use with caution!
 
              df.to_sql(name=table_name, con=connection, if_exists='append', index=False)
 
@@ -61,8 +60,7 @@ def load_data(csv_file_path):
     except pd.errors.EmptyDataError:
         logging.error(f"Error: CSV file {csv_file_path} is empty.")
     except Exception as e:
-        logging.error(f"An error occurred during data loading: {e}")
-
+        logging.error(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     # Set up argument parser
