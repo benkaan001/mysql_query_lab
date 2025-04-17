@@ -30,3 +30,6 @@ build/
 .pytest_cache/
 htmlcov/
 .coverage
+
+# Notes
+docs/notes/
