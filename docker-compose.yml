@@ -1,6 +1,3 @@
-# docker-compose.yml
-# Defines the services, networks, and volumes for the Docker application.
-
 version: '3.8' # Specifies the Docker Compose file version
 
 services:
@@ -17,9 +14,10 @@ services:
       MYSQL_USER: ${MYSQL_USER}                   # Creates a non-root user
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}           # Sets the password for the non-root user
     ports:
-      # Maps port 3306 on the host to port 3306 in the container
-      # Allows connecting to MySQL from your local machine
-      - "3306:3306"
+      # Maps port 3307 on the host to port 3306 in the container
+      # Allows connecting to MySQL from your local machine via port 3307
+      # Changed from 3306:3306 due to potential host port conflict
+      - "3307:3306"
     volumes:
       # Mounts volumes for data persistence and initialization scripts
       - mysql_data:/var/lib/mysql # Persists database data even if the container is removed
