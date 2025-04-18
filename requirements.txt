@@ -1,7 +1,11 @@
-# Python dependencies for the project
-
 pandas>=1.3.0          # For data manipulation and reading CSV files
-SQLAlchemy>=1.4.0      # For database interaction (ORM and Core)
+# --- Pinning SQLAlchemy to v1.x for compatibility with ipython-sql 0.4.1 ---
+SQLAlchemy>=1.4.0,<2.0 # SQLAlchemy v1.x
 mysql-connector-python>=8.0.0 # MySQL driver for SQLAlchemy
 python-dotenv>=0.19.0  # For loading environment variables from .env file
 pytest>=7.0.0          # Testing framework
+jupyterlab>=3.0.0      # Jupyter Lab environment
+
+# --- Pinning versions to attempt %%sql fix ---
+ipython-sql==0.4.1     # Version known to work with older prettytable & SQLAlchemy v1
+prettytable<3.0        # Prettytable version before breaking changes
