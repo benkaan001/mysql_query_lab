@@ -33,3 +33,6 @@ htmlcov/
 
 # Notes
 docs/notes/
+
+# Jupyter Notebook
+notebooks/.ipynb_checkpoints
