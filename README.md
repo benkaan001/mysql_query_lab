@@ -1,5 +1,7 @@
 # Modernized MySQL Query Lab
 
+![CI Pipeline](https://github.com/benkaan001/mysql_query_lab/actions/workflows/ci.yml/badge.svg)
+
 ## Objective
 
 This repository provides a containerized and tested environment for practicing and exploring SQL queries against various datasets. It serves as a demonstration of modern data engineering and software development practices, including Docker, automated testing, and CI/CD.
