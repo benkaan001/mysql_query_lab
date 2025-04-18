@@ -10,6 +10,5 @@ python-dotenv>=0.19.0  # For loading environment variables from .env file
 pytest>=7.0.0          # Testing framework
 jupyterlab>=3.0.0      # Jupyter Lab environment
 
-# ipython-sql and prettytable are no longer needed as we use a custom magic
-# ipython-sql==0.4.1
-# prettytable<3.0
+ruff>=0.1.0            # Linter
+black>=23.0.0          # Formatter

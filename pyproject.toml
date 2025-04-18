@@ -1,0 +1,13 @@
+# pyproject.toml
+
+[tool.black]
+line-length = 88
+# target-version = ['py311'] # Specify target Python versions if needed
+
+# Updated Ruff configuration using [tool.ruff.lint]
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"] # Select rule sets (E=pycodestyle errors, F=pyflakes, W=warnings, I=isort, UP=pyupgrade)
+ignore = [] # Add specific rule codes to ignore if necessary
