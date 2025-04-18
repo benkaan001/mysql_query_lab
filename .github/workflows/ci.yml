@@ -52,10 +52,10 @@ jobs:
           --health-retries 5
 
     env:
-      MYSQL_DATABASE: test_query_lab_db
-      MYSQL_USER: test_user
-      MYSQL_PASSWORD: test_password
-      DB_HOST: 127.0.0.1   # Use localhost for host-mapped port
+      MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+      MYSQL_USER: ${{ secrets.MYSQL_USER }}
+      MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
+      DB_HOST: 127.0.0.1
       DB_PORT: 3307
 
     steps:
