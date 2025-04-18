@@ -23,13 +23,13 @@ def db_engine():
     db_user = os.getenv("MYSQL_USER")
     db_password = os.getenv("MYSQL_PASSWORD")
     db_name = os.getenv("MYSQL_DATABASE")
-    db_host = os.getenv("DB_HOST", "127.0.0.1") # Use DB_HOST from env if set, else default
-    db_port = os.getenv("DB_PORT", "3307")      # Use DB_PORT from env if set, else use the known working port
+    db_host = os.getenv("DB_HOST", "127.0.0.1")
+    db_port = os.getenv("DB_PORT", "3307")
 
     if not all([db_user, db_password, db_name]):
         pytest.fail("Database credentials or name not found in environment variables.")
 
-    db_url = f"mysql+mysqlconnector://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    db_url = f"mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
     try:
         engine = create_engine(db_url)
         # Test connection briefly
