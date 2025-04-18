@@ -1,3 +1,6 @@
+# src/load_data.py
+# Script to load data from a CSV file into the MySQL database.
+
 import os
 import logging
 import argparse
@@ -17,23 +20,23 @@ def load_data(csv_file_path):
     db_user = os.getenv("MYSQL_USER")
     db_password = os.getenv("MYSQL_PASSWORD")
     db_name = os.getenv("MYSQL_DATABASE")
-    db_host = "127.0.0.1"
-    db_port = "3307"
+    db_host = os.getenv("DB_HOST", "127.0.0.1")
+    db_port = os.getenv("DB_PORT", "3307")
 
     # Validate that environment variables are loaded
     if not all([db_user, db_password, db_name]):
         logging.error("Database credentials or name not found in environment variables. Ensure .env file is set and loaded correctly.")
         return
 
-    # Construct database connection URL for SQLAlchemy
-    # Format: mysql+mysqlconnector://user:password@host:port/database
-    db_url = f"mysql+mysqlconnector://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
-    logging.info(f"Attempting connection to: {db_host}:{db_port} as user {db_user}") # Added connection info log
+    # Construct database connection URL for SQLAlchemy using pymysql
+    # Format: mysql+pymysql://user:password@host:port/database
+    db_url = f"mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    logging.info(f"Attempting connection using pymysql to: {db_host}:{db_port} as user {db_user}")
 
     try:
         # Create SQLAlchemy engine
         engine = create_engine(db_url)
-        logging.info(f"Successfully created database engine for {db_name}") # Note: Engine creation doesn't guarantee connection yet
+        logging.info(f"Successfully created database engine for {db_name}")
 
         # Read data from CSV file using pandas
         logging.info(f"Reading data from {csv_file_path}...")
@@ -41,17 +44,11 @@ def load_data(csv_file_path):
         logging.info(f"Read {len(df)} rows from CSV.")
 
         # Define the target table name
-        table_name = "departments"
+        table_name = "departments" 
 
-        # Load data into the MySQL table
-        # 'if_exists'='append': Adds data. If run again, it will add duplicates unless constraints prevent it.
-        logging.info(f"Loading data into table '{table_name}'...")
-        with engine.connect() as connection:
-             # Optional: Clear the table before loading if you want a fresh load each time
-             # logging.warning(f"Clearing existing data from table '{table_name}'...")
-             # connection.execute(text(f"TRUNCATE TABLE {table_name}")) # Use with caution!
-
-             df.to_sql(name=table_name, con=connection, if_exists='append', index=False)
+        # --- Use engine directly with pandas.to_sql ---
+        logging.info(f"Loading data into table '{table_name}' using engine...")
+        df.to_sql(name=table_name, con=engine, if_exists='append', index=False)
 
         logging.info(f"Successfully loaded {len(df)} rows into '{table_name}'.")
 
