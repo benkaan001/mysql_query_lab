@@ -27,9 +27,7 @@ def load_table_data(
     try:
         logging.info(f"Reading data from {csv_file_path}...")
         df = pd.read_csv(csv_file_path)
-        logging.info(
-            f"Read {len(df)} rows from CSV for table '{table_name}'."
-        )
+        logging.info(f"Read {len(df)} rows from CSV for table '{table_name}'.")
 
         logging.info(
             f"Loading data into table '{table_name}' using engine "
@@ -42,9 +40,7 @@ def load_table_data(
             if_exists=if_exists_action,
             index=False,
         )
-        logging.info(
-            f"Successfully loaded {len(df)} rows into '{table_name}'."
-        )
+        logging.info(f"Successfully loaded {len(df)} rows into '{table_name}'.")
         return True
 
     except FileNotFoundError:
@@ -54,9 +50,7 @@ def load_table_data(
         logging.error(f"Error: CSV file {csv_file_path} is empty.")
         return False
     except Exception as e:
-        logging.error(
-            f"An error occurred loading data for table '{table_name}': {e}"
-        )
+        logging.error(f"An error occurred loading data for table '{table_name}': {e}")
         return False
 
 
@@ -71,9 +65,7 @@ def main():
     parser.add_argument(
         "--table", required=True, help="Name of the database table to load into."
     )
-    parser.add_argument(
-        "--file", required=True, help="Path to the source CSV file."
-    )
+    parser.add_argument("--file", required=True, help="Path to the source CSV file.")
     parser.add_argument(
         "--if-exists",
         default="append",
@@ -98,10 +90,12 @@ def main():
             "Database credentials or target database name missing."
             " Check .env file and --database argument."
         )
-        sys.exit(1) # Exit if essential config is missing
+        sys.exit(1)  # Exit if essential config is missing
 
     # Construct connection URL targeting the specific database
-    db_url = f"mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{target_db_name}"
+    db_url = (
+        f"mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{target_db_name}"
+    )
     logging.info(
         f"Connecting using pymysql to: {db_host}:{db_port}/{target_db_name} as user {db_user}"
     )
@@ -112,11 +106,9 @@ def main():
         logging.info(f"Successfully created database engine for {target_db_name}")
 
         # Call the loading function with the engine
-        success = load_table_data(
-            engine, args.table, args.file, args.if_exists
-        )
+        success = load_table_data(engine, args.table, args.file, args.if_exists)
         if not success:
-             sys.exit(1) # Exit with error code if loading failed
+            sys.exit(1)  # Exit with error code if loading failed
 
     except Exception as e:
         logging.error(f"Failed to create database engine or load data: {e}")
