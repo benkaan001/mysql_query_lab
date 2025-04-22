@@ -124,8 +124,7 @@ class MySQLLabMagic(Magics):
                         elif rowcount == 0:
                             display(
                                 Markdown(
-                                    "Statement executed successfully. "
-                                    "0 rows affected."
+                                    "Statement executed successfully. 0 rows affected."
                                 )
                             )
                         else:
