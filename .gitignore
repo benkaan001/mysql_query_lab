@@ -36,3 +36,5 @@ docs/notes/
 
 # Jupyter Notebook
 notebooks/.ipynb_checkpoints
+
+.ruff_cache
