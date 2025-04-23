@@ -1,8 +1,3 @@
-# src/notebook_setup.py
-# Helper script to set up the Jupyter notebook environment for the MySQL Query Lab.
-# Defines a function to get DB engines and registers custom magic.
-# Run '%run -i ...' then 'db_engine = get_db_engine("db_name")' in notebook cells.
-
 import os
 import sys
 
@@ -10,18 +5,13 @@ import sqlalchemy
 from dotenv import load_dotenv
 from IPython import get_ipython
 
-# --- Import the custom magic class directly ---
-# This requires src path to be set correctly first
-magic_class_imported = False  # Flag to track import status
+magic_class_imported = False
 try:
-    # Determine project root relative to this script file
-    project_root_setup = os.path.dirname(os.path.abspath(__file__))  # Path to src
-    project_root_setup = os.path.dirname(project_root_setup)  # Path to project root
+    project_root_setup = os.path.dirname(os.path.abspath(__file__))
+    project_root_setup = os.path.dirname(project_root_setup)
     if project_root_setup not in sys.path:
-        sys.path.insert(0, project_root_setup)  # Add project root to path
-
+        sys.path.insert(0, project_root_setup)
     from src.mysql_lab_magic import MySQLLabMagic
-
     magic_class_imported = True
 except ImportError as e:
     print(
@@ -31,11 +21,7 @@ except ImportError as e:
 except Exception as e:
     print(f"An unexpected error occurred during import: {e}")
 
-
-# --- Global Cache for Engines ---
-# Avoid recreating engines repeatedly if the same DB is requested
 _engine_cache = {}
-
 
 def get_db_engine(target_db_name: str):
     """
@@ -48,12 +34,9 @@ def get_db_engine(target_db_name: str):
         return _engine_cache[target_db_name]
 
     print(f"Creating new engine for database '{target_db_name}'...")
-    # Load environment variables for base connection
-    # Assumes .env is in the project root (parent of src)
-    # Determine project root relative to this script file if not already done
     try:
         current_project_root = project_root_setup
-    except NameError:  # Fallback if run outside expected structure
+    except NameError:
         current_project_root = os.path.dirname(
             os.path.dirname(os.path.abspath(__file__))
         )
@@ -71,32 +54,25 @@ def get_db_engine(target_db_name: str):
         )
         return None
 
-    # Construct connection URL targeting the specific database
     db_url = (
         f"mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{target_db_name}"
     )
 
     try:
-        # Create engine for the specific target database
         engine = sqlalchemy.create_engine(db_url)
-        # Test connection
         with engine.connect():
             print(f"Successfully created and connected engine for '{target_db_name}'.")
-        _engine_cache[target_db_name] = engine  # Cache the engine
+        _engine_cache[target_db_name] = engine
         return engine
     except Exception as e:
         print(f"Error creating SQLAlchemy engine for '{target_db_name}': {e}")
         return None
 
-
-# --- Register Magic Command ---
 def register_magic_command():
-    """Registers the custom magic command with IPython."""
     if magic_class_imported:
         try:
             ipython_shell = get_ipython()
             if ipython_shell:
-                # Check if magic is already registered before attempting to register
                 if not ipython_shell.find_magic("mysql_lab"):
                     print("Registering custom MySQLLabMagic class...")
                     ipython_shell.register_magics(MySQLLabMagic)
@@ -112,27 +88,20 @@ def register_magic_command():
     else:
         print("Skipping magic registration because import failed.")
 
-
-# --- Run setup steps when script is executed by %run -i ---
-print("Running notebook setup script (v2: with get_db_engine)...")
-# Adjust path (redundant if import worked, but safe)
+print("Running notebook setup script...")
 try:
-    # Try to determine project root based on typical notebook location
-    notebook_dir = os.getcwd()  # Where the notebook is running
-    project_root = os.path.dirname(notebook_dir)  # Up one level (e.g., leetcode/)
-    project_root = os.path.dirname(project_root)  # Up another level (e.g., notebooks/)
-    project_root = os.path.dirname(project_root)  # Up another level (project root)
-
+    notebook_dir = os.getcwd()
+    project_root = os.path.dirname(notebook_dir)
+    project_root = os.path.dirname(project_root)
+    project_root = os.path.dirname(project_root)
     src_path = os.path.join(project_root, "src")
     if src_path not in sys.path:
-        sys.path.insert(0, src_path)  # Use insert(0,...) for higher priority
+        sys.path.insert(0, src_path)
         print(f"Added '{src_path}' to sys.path")
-except NameError:  # Handle case where getcwd() might fail
+except NameError:
     print("Warning: Could not determine project root from current working directory.")
 except Exception as e:
     print(f"Warning: Error adjusting sys.path: {e}")
 
-# Register the magic
 register_magic_command()
-
 print("Notebook setup script complete. Use 'get_db_engine(db_name)' to create engines.")
