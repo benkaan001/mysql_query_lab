@@ -12,6 +12,7 @@ try:
     if project_root_setup not in sys.path:
         sys.path.insert(0, project_root_setup)
     from src.mysql_lab_magic import MySQLLabMagic
+
     magic_class_imported = True
 except ImportError as e:
     print(
@@ -22,6 +23,7 @@ except Exception as e:
     print(f"An unexpected error occurred during import: {e}")
 
 _engine_cache = {}
+
 
 def get_db_engine(target_db_name: str):
     """
@@ -68,6 +70,7 @@ def get_db_engine(target_db_name: str):
         print(f"Error creating SQLAlchemy engine for '{target_db_name}': {e}")
         return None
 
+
 def register_magic_command():
     if magic_class_imported:
         try:
@@ -87,6 +90,7 @@ def register_magic_command():
             print(f"Error registering custom magic class: {e}")
     else:
         print("Skipping magic registration because import failed.")
+
 
 print("Running notebook setup script...")
 try:

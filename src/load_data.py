@@ -11,6 +11,7 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+
 def load_table_data(
     engine, table_name: str, csv_file_path: str, if_exists_action: str = "append"
 ):
@@ -46,6 +47,7 @@ def load_table_data(
     except Exception as e:
         logging.error(f"An error occurred loading data for table '{table_name}': {e}")
         return False
+
 
 def main():
     parser = argparse.ArgumentParser(
@@ -99,6 +101,7 @@ def main():
     except Exception as e:
         logging.error(f"Failed to create database engine or load data: {e}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

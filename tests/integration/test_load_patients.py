@@ -13,6 +13,7 @@ PROBLEM_DB = "leetcode_01_db"
 TABLE_NAME = "patients"
 CSV_FILE_PATH = "data/leetcode/01_patients_diabetes_patients.csv"
 
+
 @pytest.fixture(scope="module")
 def db_engine_problem():
     """Creates a SQLAlchemy engine for the specific problem database."""
@@ -58,6 +59,7 @@ def db_engine_problem():
     except Exception as e:
         pytest.fail(f"Failed to create database engine for {db_name}: {e}")
 
+
 @pytest.fixture(scope="function")
 def clean_patients_table(db_engine_problem):
     """Cleans the patients table in the problem-specific DB before each test."""
@@ -84,6 +86,7 @@ def clean_patients_table(db_engine_problem):
                 )
     yield
 
+
 def test_load_patients_script(db_engine_problem, clean_patients_table):
     """Tests running load_data.py script for the patients table."""
     assert os.path.exists(CSV_FILE_PATH), f"Data file not found: {CSV_FILE_PATH}"
@@ -92,10 +95,14 @@ def test_load_patients_script(db_engine_problem, clean_patients_table):
     cmd = [
         python_executable,
         "src/load_data.py",
-        "--database", PROBLEM_DB,
-        "--table", TABLE_NAME,
-        "--file", CSV_FILE_PATH,
-        "--if-exists", "replace",
+        "--database",
+        PROBLEM_DB,
+        "--table",
+        TABLE_NAME,
+        "--file",
+        CSV_FILE_PATH,
+        "--if-exists",
+        "replace",
     ]
     result = subprocess.run(cmd, capture_output=True, text=True, check=False)
 

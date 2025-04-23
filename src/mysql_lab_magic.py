@@ -16,6 +16,7 @@ def _clean_sql_query(cell_content: str) -> str:
             lines.append(line)
     return "\n".join(lines).strip()
 
+
 @magics_class
 class MySQLLabMagic(Magics):
     """
@@ -66,9 +67,7 @@ class MySQLLabMagic(Magics):
                 df = pd.read_sql(sql_query, engine)
                 if var_name:
                     user_ns[var_name] = df
-                    print(
-                        f"Query executed. Result assigned to variable '{var_name}'."
-                    )
+                    print(f"Query executed. Result assigned to variable '{var_name}'.")
                 elif df is None:
                     display(
                         Markdown(
@@ -76,9 +75,7 @@ class MySQLLabMagic(Magics):
                         )
                     )
                 elif df.empty:
-                    display(
-                        Markdown("Query executed successfully. Result is empty.")
-                    )
+                    display(Markdown("Query executed successfully. Result is empty."))
                 else:
                     display(df)
             else:
@@ -92,9 +89,7 @@ class MySQLLabMagic(Magics):
                         )
                         if rowcount == -1:
                             display(
-                                Markdown(
-                                    "Non-SELECT statement executed successfully."
-                                )
+                                Markdown("Non-SELECT statement executed successfully.")
                             )
                         elif rowcount == 0:
                             display(
@@ -122,6 +117,7 @@ class MySQLLabMagic(Magics):
             print("\n--- Query Executed ---")
             print(sql_query)
             print("----------------------")
+
 
 def load_ipython_extension(ipython):
     ipython.register_magics(MySQLLabMagic)
