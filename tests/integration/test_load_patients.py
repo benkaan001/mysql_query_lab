@@ -131,9 +131,9 @@ def test_load_patients_script(db_engine_problem, clean_patients_table):
     print("--- End script output ---")
 
     # Assert script ran successfully
-    assert result.returncode == 0, (
-        f"load_data.py script failed with exit code {result.returncode}"
-    )
+    assert (
+        result.returncode == 0
+    ), f"load_data.py script failed with exit code {result.returncode}"
 
     # Assert data loaded correctly into the specific database
     engine = db_engine_problem  # Use the correct engine
